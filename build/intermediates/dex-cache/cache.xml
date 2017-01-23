@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TransitionsTest-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\github-source\TransitionsTest-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_8cae1f7a893677c5034c5f5d2e25c585cbe2a570.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TransitionsTest-master\app\build\intermediates\exploded-aar\TransitionsTest-master\TransitionPlayer-lib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a56130b410e82aee36f91e04fb0d7c775cdc01d2">
+        <dex dex="D:\github-source\TransitionsTest-master\app\build\intermediates\pre-dexed\debug\TransitionsTest-master-TransitionPlayer-lib-unspecified_88b644b57e90efbe54347685dd191dc5a378f338.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TransitionsTest-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\github-source\TransitionsTest-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_b8fea291d149bdef35a646f1a75eb57f99c2476c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TransitionsTest-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\github-source\TransitionsTest-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_f867f297c0243c4f1d2c5449ea741bb5b04ade79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JavaIDE\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\github-source\TransitionsTest-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_999c35e4166c48d4af349bb08f17478ee5da4df8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\TransitionsTest-master\app\build\intermediates\exploded-aar\com.github.andkulikov\transitions-everywhere\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ed78679c0940c55f23504b078306b168d611a4a3">
+        <dex dex="D:\github-source\TransitionsTest-master\app\build\intermediates\pre-dexed\debug\com.github.andkulikov-transitions-everywhere-1.4.0_68fb2f5ffc86cbf0966f5bdd74818f5dfc9572bc.jar" />
+    </item>
+
+</items>
